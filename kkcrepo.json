@@ -1,0 +1,13 @@
+{
+	"name": "ARM Krazy Kark Championship 2018 Repo",
+	"version": "22.1003",
+	"packages": {
+		"kkc_2018": {
+			"description": "Pack containing all tracks and cars used in the KKC 2018",
+			"version": "22.1003",
+			"checksum": "05e5f066f7dae5a900c548a30ec3c51ee210eb2a82cefdcc84713c3c13a7a7ab",
+			"url": "https://www.aliasrevoltmaster.com/downloads/launcher/kkc_2018.zip",
+			"file": "kkc_2018.zip"
+		}
+	}
+}
